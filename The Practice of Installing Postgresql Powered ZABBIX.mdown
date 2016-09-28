@@ -1,5 +1,5 @@
 #CentOS7上安装基于Postgresql9.4 的ZABBIX 2.4 手记
-<<<<<<< HEAD
+<<<< HEAD
 =======
 
 经多番查阅资料和反复安装测试，终于在CentOS7上安装ZABBIX2.4+PostgreSQL9.4成功, 此为安装方法记录。网上有很多类似的指南，但大部分是基于MySQL和CentOS6及以下版本的，因CentOS7采用了Systemd，在安装的细节上有些不同，即使是同样采用了CentOS7、PostgreSQL9.4 和ZABBIX2.4的，安装过程也稍显复杂，以下是综合各方之后认为较为简单的方法。
